@@ -2,7 +2,7 @@
  
 This example app shows how to create a Spring Boot API with GraphQL and lock it down with Okta.
 
-Please read [Build a Secure API with Spring Boot and GraphQL]() to see how this app was created.
+Please read [Build a Secure API with Spring Boot and GraphQL](https://developer.okta.com/blog/2018/08/16/secure-api-spring-boot-graphql) to see how this app was created.
 
 **Prerequisites:** [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and an [Okta Developer Account](https://developer.okta.com)
 
@@ -130,7 +130,7 @@ This example uses the following open source libraries:
 
 ## Help
 
-Please post any questions as comments on the [blog post](), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you'd like to create a support ticket.
+Please post any questions as comments on the [blog post](https://developer.okta.com/blog/2018/08/16/secure-api-spring-boot-graphql), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if you'd like to create a support ticket.
 
 ## License
 
