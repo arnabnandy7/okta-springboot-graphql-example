@@ -136,4 +136,7 @@ Please post any questions as comments on the [blog post](https://developer.okta.
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-<!-- GitAds-Verify: G6FGDNQVVH65NS4WT1PLX76NP7TML1JW -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/okta-springboot-graphql-example@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/okta-springboot-graphql-example@github)
+
+
